@@ -2,7 +2,7 @@ title: ""
 description: ""  # Empty to prevent default description
 show_downloads: false
 google_analytics: null
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: none
 plugins:
   - jekyll-remote-theme
 
